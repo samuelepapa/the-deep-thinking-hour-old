@@ -1,5 +1,5 @@
 markdown: kramdown
-remote_theme: benbalter/retlab
+remote_theme: minima
 plugins:
   - jekyll-relative-links
 relative_links:
