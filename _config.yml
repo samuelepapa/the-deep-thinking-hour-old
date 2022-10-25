@@ -1,2 +1,9 @@
 markdown: kramdown
 remote_theme: benbalter/retlab
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
