@@ -20,7 +20,6 @@ include:
 # - about.md
 
 # Build settings
-baseurl: minima
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
