@@ -7,3 +7,6 @@ relative_links:
   collections: true
 include:
   - README.md
+title: The Deep Thinking Hour
+description: A test page
+author: "Samuele Papa"
