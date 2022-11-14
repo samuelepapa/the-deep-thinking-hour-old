@@ -1,11 +1,10 @@
 title: The Deep Thinking Hour
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Samuele Papa
+  email: saumuele.papa@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Deep Thinking Hour is an event at the University of Amsterdam, organized by the gorup lead by Efstratios Gavves. Researchers and students come together to
+  discuss and learn about the state-of-the-art in Deep Learning. Generative models, dynamical systems, geometric deep learning are the main focus.
 show_excerpts: true
 
 # Minima date format
